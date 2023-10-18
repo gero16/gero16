@@ -37,6 +37,27 @@
   </tr>
 </table>
 
+### Databases and Tools:
+<table style="border: none;">
+  <tr>
+    <td> 
+      <img style="border: none; "src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Imagen 1"></td>
+    <td>
+      <img style="border: none;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Imagen 2">
+    </td>
+    <td>
+      <img style="border: none;" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Imagen 3">
+    </td>
+    <td>
+     <img style="border: none;" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Imagen 3">
+      </td>
+       <td>
+     <img style="border: none;" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Imagen 3">
+      </td>
+    
+  </tr>
+</table>
+
 <!--
 **gero16/gero16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
