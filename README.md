@@ -5,12 +5,12 @@
 <table style="border: none;">
   <tr>
     <td> 
-      <img style="border: none; "src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="Imagen 1"></td>
+      <img style="border: none; "src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Imagen 1"></td>
     <td>
-      <img style="border: none;" src="https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="Imagen 2">
+      <img style="border: none;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Imagen 2">
     </td>
     <td>
-      <img style="border: none;" src="https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Imagen 3">
+      <img style="border: none;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Imagen 3">
     </td>
     <td>
      <img style="border: none;" src="https://camo.githubusercontent.com/4ed1fe3ec872f44fe743932bcf4eb6d18ad8568e8d6d19e16d8d96864f6acd33/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" alt="Imagen 3">
