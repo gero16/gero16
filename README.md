@@ -57,6 +57,13 @@
 </table>
 
 ### Databases and Tools:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 <table style="border: none;">
   <tr>
     <td> 
@@ -68,7 +75,7 @@
       <img style="border: none;" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Imagen 3">
     </td>
     <td>
-     <img style="border: none;" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Imagen 3">
+     <img style="border: none;" src="" alt="Imagen 3">
       </td>
        <td>
      <img style="border: none;" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Imagen 3">
@@ -77,8 +84,7 @@
   </tr>
 </table>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <!--
 **gero16/gero16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
