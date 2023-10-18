@@ -19,6 +19,24 @@
   </tr>
 </table>
 
+## Developer Tools:
+<table style="border: none;">
+  <tr>
+    <td> 
+      <img style="border: none; "src="https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Imagen 1"></td>
+    <td>
+      <img style="border: none;" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Imagen 2">
+    </td>
+    <td>
+      <img style="border: none;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Imagen 3">
+    </td>
+    <td>
+     <img style="border: none;" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Imagen 3">
+      </td>
+    
+  </tr>
+</table>
+
 <!--
 **gero16/gero16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
