@@ -4,7 +4,7 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge&logoColor=white) 
 
 
 ### Frameworks and Libraries:
